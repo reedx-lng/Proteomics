@@ -6,7 +6,7 @@ title: "FOUNDIN_proteomics"
 author: "Mark Cookson"
 date: "4/11/2019"
 output: html_document
-notes: Analysis of TMT proteomics of 10 PPMI cell lines run across three replicates. Data supplied was as ratio for each protein relative to a pool of all samples combined. Some of the labelling and annotation is a bit of a shitshow
+notes: Analysis of TMT proteomics of 10 PPMI cell lines run across three replicates. Data supplied was as ratio for each protein relative to a pool of all samples combined. 
 ---
 ```
 
